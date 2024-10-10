@@ -31,4 +31,3 @@ jobs:
         with:
           github_token: ${{ secrets.COMP3104_GITHUB_TOKEN }}
           publish_dir: ./build
-          # publish_branch: gh-pages  # default: gh-pages
